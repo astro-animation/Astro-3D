@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @FRIZZER444
-- 👀 I’m interested in making 3D animation
-- 🌱 I’m currently learning 3D
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I’m interested in making 3D animation
 
 <!---
 FRIZZER444/FRIZZER444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
