@@ -1,7 +1,5 @@
 import bpy
 
-# Lower the selected Bézier curve's Resolution U to 3
-
 obj = bpy.context.active_object
 
 if obj and obj.type == 'CURVE':
